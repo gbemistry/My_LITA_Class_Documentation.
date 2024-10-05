@@ -45,9 +45,14 @@ WHERE Attrition = 1;
 ![dataset overview](https://github.com/user-attachments/assets/dc8a975c-9dab-4516-b08c-181129558cbe)
 
 
+
 ![HR_ Attrition](https://github.com/user-attachments/assets/d961ba43-5492-4b08-9822-a95d912a58bc)
+
 
 
 ![pivot](https://github.com/user-attachments/assets/4d28bd22-5509-4dc6-8bc4-2c53462575c1)
 
+
+
+![chart](https://github.com/user-attachments/assets/4c3b7d0e-c6e4-4433-809e-ddb839645639)
 
