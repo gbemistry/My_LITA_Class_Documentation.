@@ -9,9 +9,9 @@
 
 [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
-[Exploratory Data Analysis](#Exploratory Data Analysis)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
-[Data Analysis](#Data Analysis)
+[Data Analysis](#Data-Analysis)
 
 Data Visualization
 ---
