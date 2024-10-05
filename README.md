@@ -1,6 +1,20 @@
 # My_LITA_Class_Documentation.
 ---
 ### Project Title: HR Employee Attrition
+[Project Overview](#project-overview)
+
+[Data Sources](#Data-Sources)
+
+[Tools Used](#Tools-Used)
+
+[Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
 ---
 ### Project Overview
 This Data Analysis project aims to provide a compelling glimpse into the dynamics of employee turnover and retention.
@@ -56,3 +70,11 @@ WHERE Attrition = 1;
 
 ![chart](https://github.com/user-attachments/assets/4c3b7d0e-c6e4-4433-809e-ddb839645639)
 
+
+💻🖱️⌨️
+
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
