@@ -39,3 +39,15 @@ This is where the basic lines of code or queries used in the process of performi
 SELECT * FROM [HR-Employee-Attrition]
 WHERE Attrition = 1;
 ```
+
+### Data Visualization
+
+![dataset overview](https://github.com/user-attachments/assets/dc8a975c-9dab-4516-b08c-181129558cbe)
+
+
+![HR_ Attrition](https://github.com/user-attachments/assets/d961ba43-5492-4b08-9822-a95d912a58bc)
+
+
+![pivot](https://github.com/user-attachments/assets/4d28bd22-5509-4dc6-8bc4-2c53462575c1)
+
+
